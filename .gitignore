@@ -1,0 +1,12 @@
+\venv
+\easiest_extraction.ipynb
+\build-dataset.py
+\model.py
+\authors.csv
+\papers_authors.csv
+\keyword-data.txt
+datasource.py
+\.idea
+database.sqlite
+papers.csv
+\.git
